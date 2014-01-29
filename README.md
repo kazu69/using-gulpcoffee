@@ -23,4 +23,4 @@ gulpfile.coffee を設定して読み込んでタスクを実行する。
 gulp
 ```
 
-で通常通り実行して、gulpfile.coffeeを読込みタスクを実行させる
+で通常通り```gulpfile.js```実行して、gulpfile.coffeeを読込みタスクを実行させる
