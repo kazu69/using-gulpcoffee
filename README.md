@@ -4,7 +4,7 @@
 
 ---
 
-### コマンドオプション
+### コマンドオプションを指定する方法
 
 ```
 gulp --require coffee-script
@@ -17,7 +17,7 @@ gulpfile.coffee を設定して読み込んでタスクを実行する。
 ---
 
 
-### gulpfile.jsから実行する
+### gulpfile.jsから実行するする方法
 
 ```shell
 gulp
