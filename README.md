@@ -7,7 +7,7 @@
 ### コマンドオプションを指定する方法
 
 ```
-gulp --require coffee-script
+gulp --require coffee-script/register
 ```
 
 gulpfile.coffee を設定して読み込んでタスクを実行する。
